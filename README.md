@@ -1,8 +1,8 @@
 <!--
-# AI Occlusion of Augmented Reality Contents
-# Education - Elements of AI (Building AI)
-# Link:   https://buildingai.elementsofai.com/Conclusion/your-ai-idea
-# Module: Conclusion - Your AI Idea
+AI Occlusion of Augmented Reality Contents
+Education - Elements of AI (Building AI)
+Link:   https://buildingai.elementsofai.com/Conclusion/your-ai-idea
+Module: Conclusion - Your AI Idea
 -->
 # AI Occlusion of Augmented Reality Contents
 
